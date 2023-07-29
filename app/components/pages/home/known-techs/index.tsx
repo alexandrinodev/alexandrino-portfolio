@@ -1,7 +1,7 @@
 /* eslint-disable react/jsx-no-target-blank */
 /* eslint-disable react/jsx-key */
 /* eslint-disable prettier/prettier */
-/* line 13 - os cards irão ter 264px, menos disse a coluna de cards diminui*/
+/* line 13 - os cards irão ter 264px, menos disse a coluna de cards diminui */
 import { SectionTitle } from '@/app/components/section-title'
 import { TbBrandNextjs } from 'react-icons/tb'
 import { KnownTech } from './known-tech'

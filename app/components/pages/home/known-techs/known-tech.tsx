@@ -21,7 +21,7 @@ export const KnownTech = ({ tech }: KnownTechProps) => {
         {tech.icon}
       </div>
 
-      <span>{relativeTime}de experiência</span>
+      <span>{relativeTime} de experiência</span>
     </div>
   )
 }

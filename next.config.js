@@ -4,7 +4,8 @@ const nextConfig = {
     appDir: true,
   },
   images: {
-    domains: ['media.graphassets.com'],
+    // domains: ['media.graphassets.com'],
+    domains: ['scontent.fpll2-1.fna.fbcdn.net','media.graphassets.com'],
   },
 }
 
